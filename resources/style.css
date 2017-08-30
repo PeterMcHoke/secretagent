@@ -41,7 +41,7 @@ html {
 
   .banner {
     display: flex;
-    background-image: url("/Users/petermchoke/Desktop/Projects/Codecademy Ready/SecretAgentSupply/resources/images/moto.jpg");
+    background-image: url("./images/moto.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
